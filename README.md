@@ -1,3 +1,3 @@
 # Turkce_Python_Egitimi 
-IDE olarak Spyder kullandım. Ve en temel düzeyde hazırlamaya özen göstermeye çalıştım.
+IDE olarak ANACONDA Spyder kullandım. Ve en temel düzeyde hazırlamaya özen göstermeye çalıştım.
 İYİ ÇALIŞMALAR....
